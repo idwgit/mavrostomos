@@ -1,0 +1,16 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "infinitytestsite.com",
+  "port": "21",
+  "target": "/public_html/mavrostomos/wp-content/themes/mavrostomos2017/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "idwtest",
+  "password": "Bellmore0)ne",
+  "watch": []
+}
