@@ -1,5 +1,4 @@
 <?php
-//git test
 function idw_home_page() {?>
     <section class="section S00 visible">
         <div class="container">
